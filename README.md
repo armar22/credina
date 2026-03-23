@@ -1,7 +1,7 @@
 # Credina - Micro Lending Platform
 
 <p align="center">
-  <img src="https://via.placeholder.com/150x150/3B82F6/FFFFFF?text=Credina" alt="Credina Logo" />
+  Credina - Micro Lending Platform
 </p>
 
 <p align="center">
